@@ -1,0 +1,29 @@
+
+.slide{
+border: 1px solid black;
+width: 50vw;
+height: 56vh;
+overflow: hidden;
+
+}
+
+@media only screen and (max-width: 810px ) {
+
+.slide{
+  width: 100vw;
+  height: 25vh;
+  overflow: hidden;
+
+}
+.manten{
+order: 2;
+
+}
+
+
+}
+
+
+
+
+

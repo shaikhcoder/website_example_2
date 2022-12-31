@@ -1,0 +1,52 @@
+.container-fluid{
+align-items: end !important;
+
+}
+.collapse{
+justify-content: end;
+
+}
+.navbar{
+background-color: white !important;
+position: sticky;
+top: 0px;
+z-index: 1;
+
+}
+.active{
+color:  #af003d !important;
+
+}
+.nav-link{
+
+transition: color .5s ease-in-out;
+}
+
+.nav-link:hover{
+color:  #af003d !important;
+
+
+}
+
+.h-75{
+height: 80vh !important;
+opacity: 0.7;
+}
+
+.colorChange{
+background-color: #eeeeee;
+
+}
+
+@media only screen and (max-width: 600px ) {
+.h-75{
+height: 56vh !important;
+opacity: 0.8;
+
+}
+.carousel-caption {
+
+display: grid !important;
+}
+
+}

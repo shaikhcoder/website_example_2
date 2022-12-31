@@ -1,0 +1,38 @@
+.pre_img{
+
+
+overflow: hidden;
+
+}
+.card-img-top{
+transition: all .5s ease-in-out ;
+}
+
+
+.col{
+text-decoration: none;
+background-color: white;
+
+}
+.row{
+margin: 0 !important;
+}
+
+.textArea{
+color: #af003d;
+text-decoration: none;
+font-style: italic;
+transition: color .5s ease-in-out ;
+}
+.textArea:hover{
+
+color: black;
+
+}
+
+.textArea .card-title,.card-text{
+text-align: center;
+
+}
+
+
